@@ -12,6 +12,7 @@
 
 ```inline code inside code inline code continues```
 
+
 ` | ` Header1 `|` Header2 `|`
 
  `|`--------- `|`---------`|`
@@ -23,5 +24,5 @@ Revising Readme markdown syntax
 
 ## Table of contents
 
-`_Learning readme markdown is cool`_
+`*Learning readme markdown is cool*`
 
