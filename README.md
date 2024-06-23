@@ -7,3 +7,4 @@
 **This is bold**
 
 `-`Item 1
+`*`Item 1
