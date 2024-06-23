@@ -23,5 +23,5 @@ Revising Readme markdown syntax
 
 ## Table of contents
 
-`_Learning readme markdown is cool_`
+`_Learning readme markdown is cool`_
 
