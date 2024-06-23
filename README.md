@@ -9,3 +9,5 @@
 `-`Item 1
 
 `+`Item 2
+
+`inline code`
