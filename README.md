@@ -10,4 +10,4 @@
 
 `+`Item 2
 
-```inline code `inside code` inline code continues```
+```inline code inside code inline code continues```
