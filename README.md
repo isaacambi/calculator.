@@ -12,4 +12,4 @@
 
 ```inline code inside code inline code continues```
 
-` | ` Header
+` | ` Header1 `|` Header2 `|`
