@@ -22,4 +22,6 @@
 Revising Readme markdown syntax
 
 ## Table of contents
-`-`[Installation](#installation)
+
+`_Learning readme markdown is cool_`
+
